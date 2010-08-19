@@ -1,0 +1,29 @@
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: purple;
+  background-color: #d8da3d }
+
+h1 {
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif;
+  font-size: x-large
+}
+        
+a:link {
+  color: blue }
+
+a:visited {
+  color: purple }
+
+.Content { position:absolute; top:240px; left:350px; width:490px; }
+.Content input { border:none; }
+
+.FormButtons { margin-left:52px; width:230px; text-align:right; }
+.FormButtons input { cursor:pointer; cursor:hand; position:relative; width:100px; padding:2px 0px 4px 0px; top:10px; z-index:1000; margin-bottom:10px; left:10px;}
+
+
+.error {
+	color: red;
+}

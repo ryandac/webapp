@@ -1,0 +1,2 @@
+A simple spreing MVC webapp that stores a user's first name and surname to an Oracle Database.
+The save to the database is done by a pool of 10 threads not the controller.

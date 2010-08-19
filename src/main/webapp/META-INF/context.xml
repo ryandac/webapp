@@ -1,0 +1,6 @@
+<Context path="/webapp" docBase="/webapp" reloadable="true" crossContext="false" antiJARLocking="false"
+	antiResourceLocking="false">
+
+    <ResourceLink name="jdbc/UsersDB" global="jdbc/my-exchange" type="javax.sql.DataSource" />
+		
+</Context>
